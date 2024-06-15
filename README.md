@@ -10,12 +10,13 @@ This project entails the implementation of a traditional Snake game using Python
 
 **How to Play**
 
-**Objective:** Eat food (green squares) to grow longer and increase your score.
-**Levels:** Progress through levels as your score increases, with faster snake movement at higher levels.
+**Objective:** Eat food (green squares) to grow longer and increase your score.</br>
+**Levels:** Progress through levels as your score increases, with faster snake movement at higher levels.</br>
 Avoid Collisions with obstacles (red squares) and the snake's own body.
+
 Use the arrow keys to control the snake:
-**Up:** Arrow Up
-**Down:** Arrow Down
-**Left:** Arrow Left
-**Right:** Arrow Right
+- **Up:** Arrow Up
+- **Down:** Arrow Down
+- **Left:** Arrow Left
+- **Right:** Arrow Right
 
